@@ -1,0 +1,25 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "creando una libreria con js para utilizar con node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulifer/scl-2018-01-FE-markdown.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "paulina huañaco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulifer/scl-2018-01-FE-markdown/issues"
+  },
+  "homepage": "https://github.com/Paulifer/scl-2018-01-FE-markdown#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
